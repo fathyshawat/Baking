@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.myapplication.Activties;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -8,6 +8,7 @@ import android.util.Log;
 import com.example.myapplication.Api.Constant;
 import com.example.myapplication.Fragment.FragmentDetails;
 import com.example.myapplication.Fragment.FragmentVideo;
+import com.example.myapplication.R;
 
 public class DetalisActivity extends AppCompatActivity {
 

@@ -14,7 +14,7 @@ import android.widget.ProgressBar;
 import android.widget.Toast;
 
 import com.example.myapplication.Adapter.RecipeAdapter;
-import com.example.myapplication.MainActivity;
+import com.example.myapplication.Activties.MainActivity;
 import com.example.myapplication.Model.Result;
 import com.example.myapplication.R;
 

@@ -1,12 +1,12 @@
-package com.example.myapplication;
+package com.example.myapplication.Activties;
 
 import android.os.Bundle;
-import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 import android.view.MenuItem;
 
 import com.example.myapplication.Api.Constant;
 import com.example.myapplication.Fragment.FragmentVideo;
+import com.example.myapplication.R;
 
 public class VideoActivity extends AppCompatActivity {
 

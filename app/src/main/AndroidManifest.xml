@@ -21,15 +21,15 @@
                 android:resource="@xml/widget_info" />
         </receiver>
 
-        <activity android:name=".MainActivity">
+        <activity android:name=".Activties.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".DetalisActivity"/>
-        <activity android:name=".VideoActivity"/>
+        <activity android:name=".Activties.DetalisActivity"/>
+        <activity android:name=".Activties.VideoActivity"/>
     </application>
 
 </manifest>

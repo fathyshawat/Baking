@@ -14,7 +14,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import com.example.myapplication.Api.Constant;
-import com.example.myapplication.DetalisActivity;
+import com.example.myapplication.Activties.DetalisActivity;
 import com.example.myapplication.Model.IngredientsItem;
 import com.example.myapplication.Model.Result;
 import com.example.myapplication.Model.StepsItem;
